@@ -10,13 +10,13 @@ type: "fixed"
 
 Using external image with HTML tag
 
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png?w=360" style="height: 100px; width:100px;"/>
+<img src="https://raw.githubusercontent.com/amandascm/dev-portal-content/main/images/add-to-cart-button-performance-1.png"/>
 
 # img 2
 
 Using external image with defaul markdown syntax
 
-![github avatar](https://avatars.githubusercontent.com/u/9919?s=280&v=4)
+![github avatar](https://raw.githubusercontent.com/amandascm/dev-portal-content/main/images/add-to-cart-button-performance-0.png)
 
 <div class="badge" id="store-framework">Store Framework</div>
 [block:html]
