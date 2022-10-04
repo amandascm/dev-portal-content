@@ -3,7 +3,7 @@ const path = require('path')
 const frontmatter = require('front-matter')
 const imageDownloader = require('image-downloader')
 
-const baseURL = 'https://raw.githubusercontent.com/vtexdocs/dev-portal-content/main'
+const baseURL = 'https://raw.githubusercontent.com/amandascm/dev-portal-content/main'
 const rootDir = path.resolve(__dirname, '..')
 
 const isValidExtension = (ext) => {

@@ -6,6 +6,18 @@ hidden: false
 type: "fixed"
 ---
 
+# img 1
+
+Using external image with HTML tag
+
+<img src="https://raw.githubusercontent.com/amandascm/dev-portal-content/main/images/add-to-cart-button-performance-1.png"/>
+
+# img 2
+
+Using external image with defaul markdown syntax
+
+![github avatar](https://raw.githubusercontent.com/amandascm/dev-portal-content/main/images/add-to-cart-button-performance-0.png)
+
 <div class="badge" id="store-framework">Store Framework</div>
 [block:html]
 {
